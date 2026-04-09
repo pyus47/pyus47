@@ -1,6 +1,5 @@
 - HI, my name is Muhammad Usama Majeed
 - I am doing and learning Machine learning, Deep Learning and web app developement.
-- I am aspiring junior data scientist which draw insights and patttern from boring real world data and mould this data into decision making, train stupid machines into smart machines.
 - Please reach out to me if you need my services and want collborate  on some project.I will be happy to help you?
 - Reach me at Usamamajeedusama@gmail.com
 
